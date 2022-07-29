@@ -3,5 +3,6 @@
 
 int main(){
     printf("La vida es bella\n");
+    printf("gwecghuiec\n");
     return(EXIT_SUCCESS);
 }
